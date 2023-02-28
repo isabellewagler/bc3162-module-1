@@ -5,6 +5,8 @@ Display The Road Not Taken by Robert Frost on loop
  
  Make sure all the display driver and pin connections are correct by
  editing the User_Setup.h file in the TFT_eSPI library folder.
+ 
+ Based on Example Code in Arduino ESP32 library 
 
 */
 
