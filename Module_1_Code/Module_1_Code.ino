@@ -1,17 +1,14 @@
 /*
- Display all the fast rendering fonts.
+Display The Road Not Taken by Robert Frost on loop
 
- This sketch uses the GLCD (font 1) and fonts 2, 4, 6, 7, 8
+ This sketch uses the GLCD (font 1) and font size 4
  
  Make sure all the display driver and pin connections are correct by
  editing the User_Setup.h file in the TFT_eSPI library folder.
 
- #########################################################################
- ###### DON'T FORGET TO UPDATE THE User_Setup.h FILE IN THE LIBRARY ######
- #########################################################################
 */
 
-// Pause in milliseconds between screens, change to 0 to time font rendering
+// Pause in milliseconds between screens
 #define WAIT 2000
 
 #include <TFT_eSPI.h> // Graphics and font library for ST7735 driver chip
@@ -28,8 +25,6 @@ void setup(void) {
 
 void loop() {
   targetTime = millis();
-
-  // Now test them with transparent background
   targetTime = millis();
 
   tft.setTextSize(1);
