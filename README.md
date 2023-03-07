@@ -13,6 +13,5 @@ I chose to display text from Robert Frost's poem "The Road Not Taken" on a loop 
 
 In order to create this project, I used the Arduino IDE to write software to display text on a loop on the ESP32. During the installation, we displayed the ESP32's on a homemade, hardwired board with 15 USB-C connectors. The board was powered using a programmable DC power supply, which was set to 5 Volts and 0.97 Amps. 
 
-<img src="https://user-images.githubusercontent.com/80801327/223569776-c1cffede-b5c9-4e95-b811-95ba6042183f.jpg" height=500>
 <img src="https://user-images.githubusercontent.com/80801327/223569919-1208f6ed-911d-4595-b721-d6dc7bc03c2b.jpg" width=500>
 <img src="https://user-images.githubusercontent.com/80801327/223569927-dfcc0341-b82a-402f-9965-c6be534964fb.jpg" width=500>
