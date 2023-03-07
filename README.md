@@ -1,7 +1,8 @@
 # BC3162 Module 1 - Generative Art
 ## Project Overview
 The goal of this project is to create a generative art installation using an ESP32. In order to do so, each student in the class used the Arduino IDE to write a program to visualize text on the ESP32. Originally, the plan was to wrap each student's ESP32 in a paper envelope, power them with a battery, and display them together as an installation. However, we faced technical difficulties with the batteries, and thus modified the installation to display the ESP32's together on a hardwired board. 
-<img src="https://user-images.githubusercontent.com/80801327/223570009-51a967d6-2bf0-456e-9864-018f28c52d6e.jpg" width=100>
+
+<img src="https://user-images.githubusercontent.com/80801327/223570009-51a967d6-2bf0-456e-9864-018f28c52d6e.jpg" width=500>
 ## Creative Vision
 I chose to display text from Robert Frost's poem "The Road Not Taken" on a loop on my ESP32. My vision for this project was to show the intersection between different forms of creative expression, as I displayed poetry (written creative expression) using computer hardware and software (technical creative expression). Additionally, as this is my first project in this course, I chose this poem because the message it sends to think outside the box and try new things resonated with me, as I want to keep that in mind as I go through this course and continue to explore technical art. 
 ![IMG-7278](https://user-images.githubusercontent.com/80801327/223569867-05df0040-71da-4a85-b10f-7c5db0863b80.jpg)
