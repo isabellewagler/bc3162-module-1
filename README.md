@@ -15,3 +15,6 @@ In order to create this project, I used the Arduino IDE to write software to dis
 
 <img src="https://user-images.githubusercontent.com/80801327/223569919-1208f6ed-911d-4595-b721-d6dc7bc03c2b.jpg" width=500>
 <img src="https://user-images.githubusercontent.com/80801327/223569927-dfcc0341-b82a-402f-9965-c6be534964fb.jpg" width=500>
+
+## Further Documentation
+[Link to blog post](https://decagon-dahlia-4s2l.squarespace.com/blog/module1)
